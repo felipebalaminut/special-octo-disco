@@ -1,6 +1,6 @@
 # Frontend Mentor - Projeto Sumário de Resultados
 
-## Built with
+## Construido com:
 
 - Semantic HTML5 markup
 - CSS custom properties
